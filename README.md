@@ -1,16 +1,21 @@
-## Hi there 👋
+# Nadja Mansurov — Staff / Forward Deployed Software Engineer
 
-<!--
-**nadja-mansurov/nadja-mansurov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Forward Deployed Engineer and Platform Lead with 18+ years of experience architecting high-availability B2B sync engines, enterprise integration pipelines, and deterministic AI agent workflows.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Engineering Focus & Architecture
+- **Enterprise Integrations & Core Sync:** Architecting high-throughput data pipelines (v1–v3), multi-tenant OAuth, and zero-downtime B2B integrations.
+- **Privacy-First AI Infrastructure:** Deploying local open-weight LLMs (Ollama / vLLM) for deterministic document parsing and agent workflows with zero external data leakage.
+- **Observability & Resilience:** Implementing end-to-end telemetry (Grafana, Amplitude), maintaining 99.9% uptime, and enforcing evidence-first debugging standards.
+
+---
+
+### 🏗️ Featured R&D Portfolio
+- 🚀 **[FleetReloc OSS Preview](https://github.com/nadja-mansurov/fleetreloc-oss-preview)**: Public reference architecture for a high-concurrency B2B fleet telematics platform built with local LLM parsing and WhatsApp webhook pipelines.
+
+---
+
+### 📬 Connect with Me
+- **LinkedIn:** [linkedin.com/in/nadja-mansurov](https://linkedin.com/in/nadja-mansurov)
+- **Languages:** English, German, Russian, Arabic (Working Proficiency)
