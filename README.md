@@ -21,5 +21,5 @@ Forward Deployed Engineer and Platform Lead with 18+ years of experience archite
 ### 📬 Connect with Me
 
 - **LinkedIn:** [linkedin.com/in/nadja-mansurov](https://www.linkedin.com/in/nadja-mansurov)
-- **Languages:** English, German, Russian, Arabic (Elementary / Active Learning)
+- **Languages:** English, German, Russian, Arabic (Intermediate)
 - **Deployment Scope:** Specializing in cross-border enterprise architecture, privacy-first AI infrastructure, and Forward Deployed deployment models across Europe, GCC / MENA, and global markets.
