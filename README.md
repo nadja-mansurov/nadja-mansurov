@@ -5,17 +5,21 @@ Forward Deployed Engineer and Platform Lead with 18+ years of experience archite
 ---
 
 ### ⚡ Engineering Focus & Architecture
+
 - **Enterprise Integrations & Core Sync:** Architecting high-throughput data pipelines (v1–v3), multi-tenant OAuth, and zero-downtime B2B integrations.
-- **Privacy-First AI Infrastructure:** Deploying local open-weight LLMs (Ollama / vLLM) for deterministic document parsing and agent workflows with zero external data leakage.
+- **Sovereign AI & Data Residency:** Deploying local open-weight LLMs (Ollama / vLLM) for deterministic document parsing and agent workflows with zero external data leakage.
 - **Observability & Resilience:** Implementing end-to-end telemetry (Grafana, Amplitude), maintaining 99.9% uptime, and enforcing evidence-first debugging standards.
 
 ---
 
 ### 🏗️ Featured R&D Portfolio
-- 🚀 **[FleetReloc OSS Preview](https://github.com/nadja-mansurov/fleetreloc-oss-preview)**: Public reference architecture for a high-concurrency B2B fleet telematics platform built with local LLM parsing and WhatsApp webhook pipelines.
+
+- **🚀 [FleetReloc OSS Preview](https://github.com/nadja-mansurov/fleetreloc-oss-preview):** Public reference architecture for a high-concurrency B2B fleet telematics platform built with privacy-first local LLM parsing and WhatsApp Webhook pipelines (engineered for GCC / MENA B2B fleet contexts).
 
 ---
 
 ### 📬 Connect with Me
-- **LinkedIn:** [linkedin.com/in/nadja-mansurov](https://linkedin.com/in/nadja-mansurov)
+
+- **LinkedIn:** [linkedin.com/in/nadja-mansurov](https://www.linkedin.com/in/nadja-mansurov)
 - **Languages:** English, German, Russian, Arabic (Working Proficiency)
+- **Deployment Scope:** Specializing in cross-border enterprise architecture, sovereign AI implementations, and Forward Deployed deployment models across Europe, GCC / MENA, and global markets.
